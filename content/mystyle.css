@@ -1,0 +1,333 @@
+html{
+	height:100vh;
+}
+body {
+	margin:0;
+	overflow:hidden;
+	padding:0;
+	width: 100%;
+	height:100vh;
+	color: black;
+	font-family:"Adobe Arabic", serif;
+	font-style:normal;
+	font-weight: bold;
+} 
+
+
+div{
+	width: 100%;
+	height: 95%; 
+	margin-top:2px;
+	margin-bottom:2px;
+	padding:0;
+}
+
+
+img {
+	height:90%;
+	min-width:100%;
+	width:100.00%;
+	margin:0;
+}
+	
+.container {
+	width: 100%;
+	height:95%;
+	text-align: right;
+	color: black;
+	font-family:"Adobe Arabic", serif;
+	font-style:normal;
+	font-weight: bold;
+	margin-bottom:1px;
+	padding-bottom:1px;
+}
+
+
+
+.pb{
+	text-align:right;
+}
+.Nb{
+	text-align:left;
+}
+
+table{
+	width:100%;
+	padding-right:2px;
+	padding-left:2px;
+	padding-top:-1;
+	padding-bottom:0;
+	margin-top:0;
+	margin-bottom:2px;
+}
+
+tr{
+	padding-top:0;
+	margin-top:0;
+}
+
+.tab {
+	display: none;
+}
+	
+button {
+	position: relative;
+	background-color: black;
+	color: #ffffff;
+	border: none;
+	padding: 10px 20px;
+	font-size: 32px;
+	font-family: Raleway;
+	cursor: pointer;
+}
+
+.last{
+	margin-left:auto;
+	margin-right:auto;
+	position:absolute;
+	top:10%;
+	right:5%;
+	width:80%;
+	font-size:230%;
+}
+
+p {
+	text-align: center;
+}
+
+
+.bottom-left {
+	position: absolute;
+	bottom: 30%;
+	left: 25%;
+	text-align: center;
+	line-height: 2;
+	font-size:230%;
+}
+
+.top-left {
+	position: absolute;
+	top: 35%;
+	left: 35%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	line-height: 1.3;
+	font-size:230%;
+}
+
+.top-right {
+	position: absolute;
+	top: 11%;
+	right: 45%;
+	/* transform: translate(-50%, -50%); */
+	text-align: center;
+	line-height: 1.3;
+	font-size:230%;
+	width:5%;
+}
+
+.bottom-right {
+	position: absolute;
+	top: 30%;
+	right: 20%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	line-height: 1.3;
+	font-size:230%;
+}
+
+.middle-right {
+	position: absolute;
+	top: 5%;
+	right: 50%;
+	/* transform: translate(-50%, -50%); */
+	text-align: center;
+	line-height: 1.3;
+	font-size:230%;
+}
+	
+.corner-right {
+	position: absolute;
+	top: 15%;
+	right: 22%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	line-height: 1;
+	font-size:44px;
+}
+	
+.centered {
+	position: absolute;
+	top: 13%;
+	right: 15%;
+	/* transform: translate(-50%, -50%); */
+	text-align: right;
+	font-size:230%;
+	width:25%;
+	line-height:1.3;
+}
+
+
+@media only screen and (max-width: 1500px){
+
+.container {
+	font-size: 40px;
+}	
+.centered{
+	font-size:34px;
+}
+.corner-right{
+	font-size:30px;
+	line-height: 1;
+}
+.top-right{
+	font-size:36px;
+	line-height: 1;
+	top: 30%;
+}	
+.bottom-left {
+	font-size:28px;
+	bottom: 19%;
+}
+button {
+	font-size: 18px;
+}
+
+}
+
+@media only screen and (max-width: 1200px){
+
+.container {
+	font-size: 40px;
+}	
+.centered{
+	font-size:36px;
+}
+.corner-right{
+	font-size:32px;
+	line-height: 1;
+}
+.top-right{
+	font-size:36px;
+	line-height: 1;
+	top: 30%;
+}	
+.bottom-left {
+	font-size:26px;
+	bottom: 20%;
+}
+button {
+	font-size: 18px;
+}
+
+}
+
+@media only screen and (max-width: 960px){
+
+.container {
+	font-size: 36px;
+}	
+.centered{
+	font-size:20px;
+}
+.corner-right{
+	font-size:26px;
+	line-height: 1;
+}
+.top-right{
+	font-size:30px;
+	line-height: 1;
+	top: 30%;
+}	
+.bottom-left {
+	font-size:22px;
+	bottom: 20%;
+}
+button {
+	font-size: 18px;
+}
+
+}
+
+@media only screen and (max-width: 780px){
+body {
+	width: auto;
+	height: auto;
+}
+
+div {
+	width: auto;
+	height: auto;
+}
+.container {
+	font-size: 22px;
+}	
+.corner-right{
+	font-size:14px;
+	line-height: 1;
+	top: 12%;
+	right: 18%;
+}
+.top-right{
+	font-size:14px;
+	line-height: 1;
+	top: 30%;
+}	
+	
+.centered{
+	font-size:14px;
+}	
+.bottom-left{
+	font-size:14px;
+	bottom: 16%;
+}
+button {
+	font-size: 12px;
+}
+.bottom-right {
+	right: 0%;
+}
+}
+@media only screen and (max-width: 300px){
+body {
+	width: auto;
+	height: auto;
+}
+
+div {
+	width: auto;
+	height: auto;
+}
+.container {
+	font-size: 18px;
+}	
+.corner-right{
+	font-size:8px;
+	line-height: 1;
+	top: 13%;
+	right: 19%;
+}
+.top-right{
+	font-size:8px;
+	line-height: 1;
+	top: 26%;
+}	
+.centered{
+	font-size:8px;
+}
+.bottom-left{
+	font-size:7px;
+	bottom: 12%;
+}
+.corner-right{
+	font-size:8px;
+	line-height: 1;
+}	
+	
+button {
+	font-size: 9px;
+}
+.bottom-right {
+	right: 0%;
+}
+}
