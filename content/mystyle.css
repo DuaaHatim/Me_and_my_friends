@@ -136,6 +136,16 @@ p {
 	font-size:230%;
 }
 
+.bottom-right1 {
+	position: absolute;
+	top: 30%;
+	right: 15%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	line-height: 1.5;
+	font-size:230%;
+}
+
 .middle-right {
 	position: absolute;
 	top: 5%;
@@ -172,7 +182,7 @@ p {
 
 .centered{
 	position:absolute;
-	right:8%;
+	right:11%;
 	top:18%;
 	}
 	
