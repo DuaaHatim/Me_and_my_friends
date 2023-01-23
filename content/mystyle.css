@@ -129,7 +129,7 @@ p {
 .bottom-right {
 	position: absolute;
 	top: 30%;
-	right: 15%;
+	right: 5%;
 	transform: translate(-50%, -50%);
 	text-align: center;
 	line-height: 1.3;
