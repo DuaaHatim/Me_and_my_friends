@@ -224,7 +224,10 @@ button {
 @media only screen and (max-width: 960px){
 
 .centered{
-	font-size:140%;
+	font-size:120%;
+	width: 20%;
+	right:10%;
+	top: 10%;
 }
 .corner-right{
 	font-size:26px;
@@ -232,21 +235,24 @@ button {
 }
 .top-right{
 	font-size:140%;
-	/* line-height: 1;
-	top: 30%; */
+	line-height: 1;
+	/* top: 30%; */
 }	
 	
 .bottom-left {
 	font-size:140%;
+	bottom:40%;
 	bottom: 20%;
 }
 	
 bottom-right{
 	font-size:140%;
+	line-height:1;
 	}
 	
 .bottom-right1{
 	font-size: 140%;
+	line-height:1;
 	}
 	
 button {
