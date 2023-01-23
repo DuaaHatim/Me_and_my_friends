@@ -225,9 +225,10 @@ button {
 
 .centered{
 	font-size:120%;
-	width: 20%;
-	right:10%;
+	width: 40%;
+	right:13%;
 	top: 10%;
+	line-height:1;
 }
 .corner-right{
 	font-size:26px;
@@ -240,24 +241,28 @@ button {
 }	
 	
 .bottom-left {
-	font-size:140%;
-	bottom:40%;
-	bottom: 20%;
+	font-size:120%;
+	bottom:40%
 }
 	
-bottom-right{
-	font-size:140%;
+.bottom-right{
+	font-size:120%;
 	line-height:1;
 	}
 	
 .bottom-right1{
-	font-size: 140%;
+	font-size: 120%;
 	line-height:1;
 	}
 	
 button {
 	font-size: 18px;
 }
+
+.top-left{
+	font-size:120%;
+	line-height:1;
+	}
 
 }
 
