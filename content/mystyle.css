@@ -82,12 +82,13 @@ button {
 }
 
 .title{
-	font-size:260%;
+	font-size:500%;
 	width:7%;
 	position:absolute;
 	top:40%;
 	right:40%;
 	text-align:center;
+	color:#006400;
 }
 
 
