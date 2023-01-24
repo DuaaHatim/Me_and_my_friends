@@ -81,6 +81,15 @@ button {
 	cursor: pointer;
 }
 
+.title{
+	font-size:260;
+	width:7%;
+	top:40%;
+	right:40%;
+	text-align:center;
+}
+
+
 .last{
 	margin-left:auto;
 	margin-right:auto;
