@@ -292,7 +292,7 @@ button {
 	font-size:130%;
 	line-height: 1.2;
 	top: 21%;
-	right: 50%;
+	right: 35%;
 }	
 	
 .bottom-left {
@@ -311,6 +311,7 @@ button {
 	line-height:1.2;
 	right:0.5%;
 	padding-right:0;
+	margin-right:0;
 	}
 	
 .bottom-right1{
@@ -326,5 +327,6 @@ button {
 	font-size:130%;
 	line-height:1.2;
 	padding-right:0;
+	margin-right:0;
 	}	
 }
