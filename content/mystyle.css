@@ -122,6 +122,11 @@ a{
 	font-size:230%;
 }
 
+.left{
+	text-align:left;
+	font-size:200%;
+}
+
 p {
 	text-align: center;
 }
@@ -222,6 +227,11 @@ p {
 	line-height:1;
 }
 	
+.left{
+	text-align:left;
+	font-size:200%;
+	}
+	
 .title{
 	font-family:"Adobe Arabic", serif;
 	font-size:500%;
@@ -311,6 +321,10 @@ button {
 	line-height:1;
 }
 	
+.left{
+	text-align:left;
+	font-size:110%;
+	}	
 .title{
 	font-family:"Adobe Arabic", serif;
 	font-size:300%;
@@ -385,7 +399,7 @@ button {
 @media only screen and (max-width: 780px){
 
 .title{
-	right:12%;
+	right:18%;
 	}
 	
 .cv{
