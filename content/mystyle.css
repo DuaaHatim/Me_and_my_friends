@@ -85,10 +85,11 @@ button {
 	font-size:500%;
 	width:7%;
 	position:absolute;
-	top:40%;
+	top:35%;
 	right:40%;
 	text-align:center;
 	color:#006400;
+	font-weight:400%;
 }
 
 
