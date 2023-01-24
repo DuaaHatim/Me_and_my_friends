@@ -273,6 +273,56 @@ button {
 
 }
 
-/* @media only screen and (max-width: 780px){
+@media only screen and (max-width: 780px){
+
+.centered{
+	font-size:120%;
+	width: 40%;
+	right:13%;
+	top: 20%;
+	line-height:1;
+}
+
+.corner-right{
+	font-size:26px;
+	/* line-height: 1; */
+}
+
+.top-right{
+	font-size:130%;
+	line-height: 1.2;
+	top: 21%;
+	right: 50%;
+}	
 	
-} */
+.bottom-left {
+	font-size:120%;
+	bottom:40%
+	line-height:1.2;
+}
+
+.middle-right {
+	font-size:130%;
+	line-height:1.2;
+	}
+	
+.bottom-right{
+	font-size:130%;
+	line-height:1.2;
+	right:0.5%;
+	}
+	
+.bottom-right1{
+	font-size: 130%;
+	line-height:1.2;
+	}
+	
+button {
+	font-size: 18px;
+}
+
+.top-left{
+	font-size:130%;
+	line-height:1.2;
+	}	
+}
