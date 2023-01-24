@@ -13,6 +13,10 @@ body {
 	font-weight: bold;
 } 
 
+.CP{
+	height:100%;
+}
+
 
 div{
 	width: 100%;
@@ -91,7 +95,7 @@ button {
 }
 
 a{
-	font-size:180%;
+	font-size:120%;
 	color:RGB(13, 34, 53);
 }
 
