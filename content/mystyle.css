@@ -230,12 +230,14 @@ button {
 	top: 15%;
 	line-height:1;
 }
+
 .corner-right{
 	font-size:26px;
 	/* line-height: 1; */
 }
+
 .top-right{
-	font-size:140%;
+	font-size:130%;
 	line-height: 1.2;
 }	
 	
@@ -244,14 +246,19 @@ button {
 	bottom:40%
 	line-height:1.2;
 }
+
+.middle-right {
+	font-size:130%;
+	line-height:1.2;
+	}
 	
 .bottom-right{
-	font-size:120%;
+	font-size:130%;
 	line-height:1.2;
 	}
 	
 .bottom-right1{
-	font-size: 120%;
+	font-size: 130%;
 	line-height:1.2;
 	}
 	
@@ -260,7 +267,7 @@ button {
 }
 
 .top-left{
-	font-size:120%;
+	font-size:130%;
 	line-height:1.2;
 	}
 
