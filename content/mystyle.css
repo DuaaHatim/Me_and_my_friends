@@ -82,17 +82,15 @@ button {
 }
 
 .title{
+	font-family:"Adobe Arabic", serif;
+	font-style:normal;
 	font-size:700%;
-	/* width:7%; */
 	position:absolute;
 	top:20%;
 	right:40%;
 	text-align:center;
 	color:#006400;
 	font-weight:600%;
-	dsplay: flex;
-	align-items: center; 
-	justify-content: center;
 	line-height:1.3;
 }
 
