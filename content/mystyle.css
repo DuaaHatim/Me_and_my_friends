@@ -81,6 +81,20 @@ button {
 	cursor: pointer;
 }
 
+.span1{
+	color:#cc5500; 
+	font-size:250%;
+}
+
+.spac2{
+	font-size:180%;
+}
+
+a{
+	font-size:180%;
+	color:#00008B;
+}
+
 .title{
 	font-family:"Adobe Arabic", serif;
 	font-size:700%;
