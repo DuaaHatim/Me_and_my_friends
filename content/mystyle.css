@@ -243,7 +243,8 @@ p {
 	
 
 .span1{
-	font-size:185%;
+	font-size:183%;
+	padding:0;
 	}
 	
 .bottom-left {
@@ -404,7 +405,8 @@ button {
 }
 
 .span1{
-	font-size:185%;
+	font-size:183%;
+	padding: 0;
 	}
 	
 .corner-right{
