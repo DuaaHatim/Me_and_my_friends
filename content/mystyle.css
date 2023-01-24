@@ -241,6 +241,11 @@ p {
 	top:18%;
 	}
 	
+
+.span1{
+	font-size200%;
+	}
+	
 .bottom-left {
 	position: absolute;
 	bottom: 35%;
