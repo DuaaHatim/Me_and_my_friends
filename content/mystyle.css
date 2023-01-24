@@ -273,39 +273,6 @@ button {
 
 }
 
-@media only screen and (max-width: 780px){
+/* @media only screen and (max-width: 780px){
 	
-.centered{
-	font-size:140%;
-	}
-	
-.corner-right{
-	font-size:14px;
-	line-height: 1;
-	top: 12%;
-	right: 18%;
-}
-	
-.top-right{
-	font-size:140%;
-	/* line-height: 1;
-	top: 30%; */
-}	
-	
-
-.bottom-left{
-	font-size:140%;
-	/* bottom: 16%; */
-}
-button {
-	font-size: 12px;
-}
-	
-.bottom-right {
-	font-size: 140%;
-}
-	
-.bottom-right1{
-	font-size:140%;
-	}
-}
+} */
