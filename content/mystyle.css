@@ -100,7 +100,7 @@ button {
 	position:absolute;
 	top:25%;
 	right:5%;
-	width:80%;
+	width:75%;
 	font-size:230%;
 }
 
@@ -226,7 +226,7 @@ p {
 	top:25%;
 	right:15%;
 	width:75%;
-	font-size:140%;
+	font-size:230%;
 	line-height:1;
 }
 }
