@@ -267,7 +267,7 @@ button {
 	margin-left:auto;
 	margin-right:auto;
 	position:absolute;
-	top:15%;
+	top:10%;
 	right:15%;
 	width:75%;
 	font-size:140%;
@@ -278,7 +278,7 @@ button {
 	font-family:"Adobe Arabic", serif;
 	font-size:300%;
 	position:absolute;
-	top:15%;
+	top:10%;
 	right:40%;
 	text-align:center;
 	color:#006400;
@@ -339,6 +339,12 @@ button {
 
 @media only screen and (max-width: 780px){
 
+
+.title{
+	right:25%;
+	}
+	
+	
 .centered{
 	font-size:120%;
 	width: 40%;
