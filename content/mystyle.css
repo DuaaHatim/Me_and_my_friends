@@ -225,9 +225,9 @@ button {
 
 .centered{
 	font-size:120%;
-	width: 40%;
+	width: 35%;
 	right:13%;
-	top: 10%;
+	top: 15%;
 	line-height:1;
 }
 .corner-right{
@@ -236,23 +236,23 @@ button {
 }
 .top-right{
 	font-size:140%;
-	line-height: 1;
-	/* top: 30%; */
+	line-height: 1.2;
 }	
 	
 .bottom-left {
 	font-size:120%;
 	bottom:40%
+	line-height:1.2;
 }
 	
 .bottom-right{
 	font-size:120%;
-	line-height:1;
+	line-height:1.2;
 	}
 	
 .bottom-right1{
 	font-size: 120%;
-	line-height:1;
+	line-height:1.2;
 	}
 	
 button {
@@ -261,7 +261,7 @@ button {
 
 .top-left{
 	font-size:120%;
-	line-height:1;
+	line-height:1.2;
 	}
 
 }
