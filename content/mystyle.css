@@ -235,11 +235,20 @@ p {
 }
 
 	
-.centered, .cv{
+.centered{
 	position:absolute;
 	right:14%;
 	top:18%;
 	}
+	
+	
+.cv{
+	position:absolute;
+	right:14%;
+	top:18%;
+	width:35%;
+	}
+	
 	
 
 .span1{
@@ -389,7 +398,7 @@ button {
 	
 .cv{
 	font-size:120%;
-	width: 40%;
+	width: 45%;
 	right:13%;
 	top: 20%;
 	line-height:1.3;
